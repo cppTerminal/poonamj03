@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @poonamj03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m a cpp & python programmer
+- 👀 I’m interested in image processing, & AI/ML
+- 🌱 I’m currently learning Data Structures
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
 
 <!---
-poonamj03/poonamj03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cppTerminal/README.md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
